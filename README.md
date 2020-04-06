@@ -1,3 +1,11 @@
+# COVID-19 Stats
+
+COVID-19 statistics by country.
+
+## Credits
+
+- [COVID-19 API Rest](https://github.com/mathdroid/covid-19-api)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
