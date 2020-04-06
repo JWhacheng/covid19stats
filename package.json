@@ -1,6 +1,7 @@
 {
-  "name": "covid-19-stats-peru",
-  "version": "0.1.0",
+  "homepage": "http://JWhacheng.github.io/covid19stats",
+  "name": "covid19stats",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -12,6 +13,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
